@@ -1,12 +1,16 @@
-- name: Pricing
+- name: Kansatsu
   link: /pricing/
   new_window: false
   highlight: false
-- name: Blog
+- name: Datasets
+  link: /datasets/
+  new_window: false
+  highlight: false
+- name: Gallery
   link: /blog/
   new_window: false
   highlight: false
-- name: About
+- name: About Us
   link: /about/
   new_window: false
   highlight: false
@@ -14,11 +18,11 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
-  link: /
-  new_window: true
-  highlight: false
-- name: Sign Up
-  link: /
+#- name: Login
+#  link: /
+#  new_window: true
+#  highlight: false
+- name: Access
+  link: http://www.kansatsu.tube
   new_window: true
   highlight: true

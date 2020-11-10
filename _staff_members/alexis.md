@@ -1,0 +1,7 @@
+---
+name: Alexis
+position: Lead DS
+image_path: https://source.unsplash.com/collection/139386/601x601?a=.png
+twitter: 
+blurb: Alexis likes long walks on the beach and buffet breakfast.
+---
