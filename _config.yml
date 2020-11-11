@@ -19,6 +19,7 @@ social:
   name: Kansatsu
   links:
     - https://kansatsu-youtube-observatory.github.io/kansatsupage/
+    - https://www.Kansatsu.tube
 
 # -----
 # Build
@@ -44,7 +45,7 @@ defaults:
         content:
           width: 1500
           height: 2500
-    -
+  -
     scope:
       path: ""
       type: "publications"

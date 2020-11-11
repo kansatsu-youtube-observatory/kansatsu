@@ -1,12 +1,12 @@
 ---
-title: Blog
-description: Keep up with the latest news.
+title: Publications
+description: A list of scientific articles that use Kansatsu's data.
 ---
 
 <div class="text-container">
 	<p class="editor-link"><a href="cloudcannon:collections/_publications" class="btn"><strong>&#9998;</strong> Add Post</a></p>
 	<ul class="blog-posts">
-		{% include list-posts.html posts=paginator.posts %}
+		{% include list-publications.html publications=paginator.publications %}
 	</ul>
 
 	{% if paginator.total_pages > 1 %}

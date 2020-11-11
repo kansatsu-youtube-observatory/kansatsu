@@ -1,20 +1,24 @@
-- name: Kansatsu
-  link: /pricing/
+- name: Engine
+  link: /engine/
   new_window: false
   highlight: false
-- name: Publications
-  link: /publications/
+- name: Platform
+  link: /platform/
   new_window: false
   highlight: false
 - name: Datasets
   link: /datasets/
   new_window: false
   highlight: false
+- name: Publications
+  link: /publications/
+  new_window: false
+  highlight: false
 - name: Gallery
   link: /blog/
   new_window: false
   highlight: false
-- name: About Us
+- name: Us
   link: /about/
   new_window: false
   highlight: false
@@ -27,6 +31,7 @@
 #  new_window: true
 #  highlight: false
 - name: Access
-  link: http://www.kansatsu.tube
-  new_window: true
+  #link: http://dashboard.kansatsu.tube
+  link: /dashboardwaiting/
+  new_window: false
   highlight: true
