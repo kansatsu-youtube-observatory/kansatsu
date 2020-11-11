@@ -44,6 +44,16 @@ defaults:
         content:
           width: 1500
           height: 2500
+    -
+    scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: "publication"
+      _options:
+        content:
+          width: 1500
+          height: 2500
   -
     scope:
       path: ""
