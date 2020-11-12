@@ -24,7 +24,7 @@ social:
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: CET
 
 collections:
   staff_members:
