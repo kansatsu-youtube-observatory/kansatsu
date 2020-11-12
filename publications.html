@@ -1,22 +1,12 @@
 ---
 title: Publications
-description: >-
-  List of scientific articles that use Kansatsu data
+description: List of scientific articles that use Kansatsu data
 ---
 
+<br><br>
 
+{% for publication in site.publications %}
+  <h3>{{ publication.title }}</h3>
+  <p>{{ publication.excerpt | markdownify }}</p>
+{% endfor %}
 
-
-<section class="hero">
-	<br><br>
-
-	<div class="text-container">
-		Under construction.
-		<br>
-		TODO: <br> 
-		- Justify left <br> 
-		- Insert markdown <br>
-		- Deploy item-listing <br> 
-	</div>
-	<br><br>
-</section>

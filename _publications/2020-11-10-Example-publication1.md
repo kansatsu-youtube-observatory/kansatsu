@@ -1,6 +1,7 @@
 ---
 date: 2020-11-10
 title: Example article 1
+excerpt: some summary of article 1
 categories:
   - datascientes
 author_staff_member: pedro
