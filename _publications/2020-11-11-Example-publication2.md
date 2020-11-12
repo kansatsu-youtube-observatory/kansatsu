@@ -1,10 +1,10 @@
 ---
-date: 2020-11-10
-title: Example post
+date: 2020-11-11
+title: Example article 2
 categories:
   - datascientes
 author_staff_member: pedro
 ---
 
 
-This is an example of a small post to showcase to cherry picked insights.
+Contents of article 2
