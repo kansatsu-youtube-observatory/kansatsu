@@ -31,6 +31,8 @@ collections:
     _hide_content: true
   publications:
     output: true
+  datasets:
+    output: true
 
 paginate: 10
 paginate_path: "/blog/:num/"
@@ -43,6 +45,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      _options:
+        content:
+          width: 1500
+          height: 2500
+  -
+    scope:
+      path: ""
+      type: "datasets"
+    values:
+      layout: "dataset"
       _options:
         content:
           width: 1500

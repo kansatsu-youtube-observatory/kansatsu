@@ -1,14 +1,16 @@
 ---
 title: Datasets
 description: >-
-  List of datasets released for research purposes
+  List of released datasets
 ---
 
-<section class="hero">
-	<br><br>
-	<div class="text-container">
-		Under construction. 
-	</div>
-	<br><br>
-</section>
+<br><br>
+
+<div class="text-container">
+{% for dataset in site.datasets reversed %}
+  <h3>{{ dataset.title }}  </h3>
+  <p>{{ dataset.date | date_to_long_string }}. {{dataset.link}} </p>
+{% endfor %}
+</div>
+
 
