@@ -6,7 +6,7 @@ description: Want to collaborate? Need data? Want to explore the platform?
 map:
   latitude: 48.85
   longitude: 2.3497
-  address: "Somewhere in the larger Paris Area"
+  address: "Laboratoire Interdisciplinaire Sciences Innovations Sociétés, 5 boulevard Descartes, Champs-sur-Marne, 77454  MARNE-LA-VALLÉE Cedex 02"
   zoom: 9
 ---
 <div class="map" id="map"></div>
@@ -14,7 +14,7 @@ map:
 
 <div class="contact-box">
 	<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
-		<input type="hidden" name="_to" value="example@email.com" />
+		<input type="hidden" name="_to" value="contact@kansatsu.tube" />
 		<input type="text" name="_gotcha" style="display: none;">
 
 		<label for="name">Full Name</label>
@@ -30,11 +30,11 @@ map:
 	</form>
 
 	<div class="contact-details">
-		<h3 class="editable">Address</h3>
+		<h3 class="editable">We are currently hosted at:</h3>
 		<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
 
 		<h3 class="editable">Email</h3>
-		<p><a href="mailto:support@example.com">support@example.com</a></p>
+		<p><a href="mailto:contact@kansatsu.tube">contact@kansatsu.tube</a></p>
 	</div>
 </div>
 

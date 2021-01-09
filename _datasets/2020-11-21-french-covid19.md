@@ -1,6 +1,6 @@
 ---
-date: 2020-11-21
-title: French YouTube Media and Recommendation System During the COVID-19 Pandemic
+date: 2021-01-15
+title: (UPCOMING) French YouTube Media and Recommendation System During the COVID-19 Pandemic
 categories:
   - covid19
   - fake news

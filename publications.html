@@ -9,7 +9,7 @@ description: List of scientific articles that use Kansatsu data
 	{% for publication in site.publications reversed %}
 	  <h3>{{ publication.title }}</h3>
 	  <p> {{ publication.date | date_to_long_string }}. {{ publication.excerpt | markdownify }}</p>
-	  <p>{{ publication.cite }}</p>
+	  <p>{{ publication.cite }} {{ publication.link }}</p>
 	{% endfor %}
 </div>
 

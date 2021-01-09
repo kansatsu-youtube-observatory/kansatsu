@@ -7,7 +7,8 @@ categories:
   - social media
 author_staff_member: pedro
 journal: Statistiques et Société
-cite: Ramaciotti Morales, P., Cointet, J.-P., Benbouzid, B., Cardon, D., Froio, C., Metin, O.-F., Ooghe Tabanou, B., Plique, G. Multi-platform atlas of a social movement, the Yellow Vests in France (Atlas Multi-Plateforme d’un Mouvement Social, Le cas des Gilets Jaunes). Statistique et Société, 2020.
+cite: Ramaciotti Morales, P., Cointet, J.-P., Benbouzid, B., Cardon, D., Froio, C., Metin, O.-F., Ooghe Tabanou, B., Plique, G. Multi-platform atlas of a social movement, the Yellow Vests in France (Atlas Multi-Plateforme d’un Mouvement Social, Le cas des Gilets Jaunes). Statistique et Société, 2021.
+link: <a href="https://pedroramaciotti.github.io/files/publications/2021_CR__Atlas_Multi_Plateforme_d_un_Mouvement_Social__Le_cas_des_Gilets_Jaunes.pdf">[link]</a>
 ---
 
 
